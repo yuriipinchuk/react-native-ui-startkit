@@ -1,9 +1,6 @@
 # RNUIStartTemplate
 
-*You're viewing the new and updated version of React Native Starter, previous version can be found under the [v1 branch](https://github.com/flatlogic/react-native-starter/tree/v1)*
-
 A simple react native starter template that bootstraps development of your mobile application.
-
 
 ## What's inside
 
